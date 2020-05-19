@@ -6,3 +6,5 @@ These are my favorite foods in the whole wide world:
 * Blueberries
 * Ice cream
 * Pizza
+
+!(carrot-cake.jpg)(salmon.jpg)
