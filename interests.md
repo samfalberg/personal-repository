@@ -5,4 +5,5 @@ These are the things I like to do:
 * Play video games
 * Rock climbing
 
-!(drums.jpg)(climbing.jpg)
+![drums](drums.jpg)
+![climbing](climbing.jpg)

@@ -7,4 +7,5 @@ These are my favorite foods in the whole wide world:
 * Ice cream
 * Pizza
 
-!(carrot-cake.jpg)(salmon.jpg)
+![Carrot cake](carrot-cake.jpg)
+![salmon](salmon.jpg)
